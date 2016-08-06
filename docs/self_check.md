@@ -27,6 +27,10 @@
   - 要求：完成在线学习 [Learn the Command Line](https://www.codecademy.com/learn/learn-the-command-line) 和微课 [Conquering The Command Line](https://wap.umu.cn/model/groupShare?groupId=118501&sKey=f8cb459750c46e93a241a8995c84f0de&state=1470184326&from=timeline&isappinstalled=0) 掌握基本命令（5/5)
   - 完成情况:
   - 问题:
+- 学习 git 和 Github
+  - 要求: 完成[tryGit](https://try.github.io/levels/1/challenges/1) 和 [learn git](https://www.codecademy.com/learn/learn-git) (5/5)
+  - 完成情况:
+  - 问题:
 - 完成 Coursera 第一周的课程
   - 要求: 重点完成 [Introduction To Git](https://www.coursera.org/learn/ruby-on-rails-intro/lecture/8F19A/introduction-to-git)。理解 Git 的工作原理，明细什么是本地仓库（local repo），什么是远程仓库（remote repo)。完成 github 注册和实战 git。 (5/5)
   - 完成情况:
